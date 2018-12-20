@@ -1,0 +1,11 @@
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\bin\Debug\netcoreapp2.0\PipelineDemo.deps.json
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\bin\Debug\netcoreapp2.0\PipelineDemo.runtimeconfig.json
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\bin\Debug\netcoreapp2.0\PipelineDemo.runtimeconfig.dev.json
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\bin\Debug\netcoreapp2.0\PipelineDemo.dll
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\bin\Debug\netcoreapp2.0\PipelineDemo.pdb
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.csprojAssemblyReference.cache
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.csproj.CoreCompileInputs.cache
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.AssemblyInfoInputs.cache
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.AssemblyInfo.cs
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.dll
+C:\OLD Laptop data backup\Documents\Working Drive\Azure\source\repos\PipelineDemo\PipelineDemo\obj\Debug\netcoreapp2.0\PipelineDemo.pdb
